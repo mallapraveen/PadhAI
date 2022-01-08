@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malla/Data%20Science%20and%20ML/PadhAI/PadhAI-DeepLearning/Course/21.%20Hyperparameter%20Tuning%20and%20MLFlow/mlruns/1/4e62b39a40704182931a7ceb8148a9ed/artifacts
+end_time: 1641626597774
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4e62b39a40704182931a7ceb8148a9ed
+run_uuid: 4e62b39a40704182931a7ceb8148a9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641626525370
+status: 4
+tags: []
+user_id: malla
